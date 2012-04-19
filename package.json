@@ -1,0 +1,21 @@
+{
+  "author": "",
+  "name": "jade-browser-test",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {
+      "express": "2.x",
+      "mirror": "0.3.3",
+    "jade": "latest",
+    "jade-browser": "https://github.com/Vertice/jade-browser/tarball/master",
+    "underscore": "latest",
+    "backbone": "latest"
+  },
+  "devDependencies": {}
+}
